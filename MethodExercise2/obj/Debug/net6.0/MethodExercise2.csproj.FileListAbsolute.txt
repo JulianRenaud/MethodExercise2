@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.exe
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.deps.json
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\bin\Debug\net6.0\MethodExercise2.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\refint\MethodExercise2.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\MethodExercise2.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\MethodExercise2\MethodExercise2\obj\Debug\net6.0\ref\MethodExercise2.dll
