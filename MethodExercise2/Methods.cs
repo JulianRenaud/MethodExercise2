@@ -21,19 +21,29 @@ namespace MethodExercise2
         }
         public static void NUMS()
         {
+            //Intro
             Console.WriteLine("Please enter the first number: ");
             double iPut1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Please enter the second number: ");
             double iPut2 = Convert.ToDouble(Console.ReadLine());
+            
+            
+            //Addition
             Console.WriteLine("The sum of all of the numbers is...");
             double total = Methods.Add(iPut1, iPut2);
             Console.WriteLine(total);
+            
+            //Subtraction
             Console.WriteLine("The subtraction of all of the numbers is...");
             double total1 = Methods.Subtract(iPut1, iPut2);
             Console.WriteLine(total1);
+            
+            //Multiplication
             Console.WriteLine("The product of all of the numbers is...");
             double total2 = Methods.Multiply(iPut1, iPut2);
             Console.WriteLine(total2);
+           
+            //Division
             Console.WriteLine("The quotient of all of the numbers is...");
             double total3 = Methods.Divide(iPut1, iPut2);
             Console.WriteLine(total3);
