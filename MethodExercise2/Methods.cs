@@ -28,6 +28,47 @@ namespace MethodExercise2
             Console.WriteLine("The sum of all of the numbers is...");
             double total = Methods.Add(iPut1, iPut2);
             Console.WriteLine(total);
+            Console.WriteLine("The subtraction of all of the numbers is...");
+            double total1 = Methods.Subtract(iPut1, iPut2);
+            Console.WriteLine(total1);
+            Console.WriteLine("The product of all of the numbers is...");
+            double total2 = Methods.Multiply(iPut1, iPut2);
+            Console.WriteLine(total2);
+            Console.WriteLine("The quotient of all of the numbers is...");
+            double total3 = Methods.Divide(iPut1, iPut2);
+            Console.WriteLine(total3);
         }
+        public static double Subtract(double num1, double num2)
+        {
+
+            return num1 - num2;
+
+
+
+
+
+        }
+        public static double Multiply(double num1, double num2)
+        {
+
+            return num1 * num2;
+
+
+
+
+
+        }
+        public static double Divide(double num1, double num2)
+        {
+
+            return num1 / num2;
+
+
+
+
+
+        }
+
+
     }
 }
